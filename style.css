@@ -1,0 +1,128 @@
+.first-block{
+    background-color: white;
+    padding: 4% 15%;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.display-5{
+    font-size:30px;
+    font-style: italic;
+    font-weight: bold;
+}
+.sty-img{
+    margin-left: 7%;
+}
+.text-img{
+    padding: 8% 0 0 0;
+}
+
+.contact-me{
+    background-color: white;
+    padding: 4% 15%;
+    border-radius: 20px;
+    margin: 7% 15%;
+}
+
+
+
+footer {
+    background-color: #74d0f5;
+    padding: 20px;
+    /* text-align: center; */
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* .footer-content p {
+    margin: 0 100px; 
+    text-align: left;
+  } */
+/* .left-text{
+    text-align: left;
+} */
+
+.right-text{
+    text-align: right;
+    margin-left: 100px;
+} 
+  button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: right;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }
+
+body{
+    color: #40514E;
+    margin: 0;
+    /* text-align: center; */
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+
+  .row{
+    margin-bottom: 4%;
+  }
+
+  .contab{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #d5f839;
+  }
+
+  header {
+    background-color:rgb(229, 143, 143)}
+  
+  /* #details-css */
+  .para{
+    text-align: left;
+    background-color: rgb(218, 227, 243);
+  }
+  .head1 h2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e4e00d;
+    height: 50px;
+  }

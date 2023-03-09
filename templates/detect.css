@@ -1,0 +1,17 @@
+.first-container{
+    text-align: center;
+    margin-top: 2%;
+}
+
+#myVidPlayer{
+    width: 800px;
+    height: 450px;
+}
+
+h1{
+    background-color: white;
+    font-size:65px;
+    font-family: 'Kanit', sans-serif;
+    margin-bottom: 3%;
+    margin-top: 0;
+}
